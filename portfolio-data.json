@@ -1,0 +1,167 @@
+{
+  "settings": {
+    "name": "SK MOHAMMAD ALI",
+    "title": "Engineering Student",
+    "location": "India",
+    "summary": "Highly motivated Engineering student pursuing B.Tech in Electrical Engineering, eager to apply knowledge and develop practical skills.",
+    "profileImage": "<a href=\"https://ibb.co/1fHzVtvF\"><img src=\"https://i.ibb.co/C5xPd31R/Whats-App-Image-2025-07-30-at-18-21-16-fce64e63.jpg\" alt=\"Whats-App-Image-2025-07-30-at-18-21-16-fce64e63\"",
+    "primaryColor": "#10B981"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "LinkdIn",
+          "url": "https://linkedin.com/in/skmohammadalli",
+          "isPrimary": true,
+          "icon": "linkedin"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "title": "About Me",
+      "content": "A highly motivated Engineering student pursuing a B.Tech in Electrical Engineering, expected to graduate in 2028. Eager to apply theoretical knowledge and develop practical skills within the field. Seeking opportunities to contribute to innovative projects and gain hands-on experience. Committed to continuous learning and professional growth within the engineering domain.",
+      "skills": {
+        "enabled": true,
+        "title": "Skills",
+        "items": [
+          "Communication",
+          "Public Speaking",
+          "Critical Thinking",
+          "Leadership",
+          "Full stack web development",
+          "SaaS",
+          "IoT Development",
+          "Project Management",
+          "Designing",
+          "Creativity"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Experience",
+      "items": [
+        {
+          "company": "Various",
+          "position": "Leadership",
+          "period": "May 2023 - Present",
+          "description": "Leadership Role"
+        },
+        {
+          "company": "Various",
+          "position": "Project Management",
+          "period": "Nov 2024 - Present",
+          "description": "Project Management Role"
+        },
+        {
+          "company": "Various",
+          "position": "Event Management",
+          "period": "May 2025 - Present",
+          "description": "Event Management Role"
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Projects",
+      "items": [
+        {
+          "title": "Voice Control Wheel Chair",
+          "description": "Voice Control Wheel Chair",
+          "tags": [
+            "engineering"
+          ],
+          "previewUrl": "#"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Aliah university",
+          "degree": "Graduation - BTech - Electrical Engineering",
+          "period": "2024 - 2028"
+        },
+        {
+          "institution": "Al-Ameen Mission",
+          "degree": "Intermediate - Science",
+          "period": "2022 - 2024"
+        },
+        {
+          "institution": "Al-Ameen Mission",
+          "degree": "High School",
+          "period": "2018 - 2022"
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "skmohammadaliofficail@gmail.com",
+      "phone": "",
+      "location": "Kolkata, India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "LinkedIn",
+          "url": "linkedin.com/in/skmohammadaliofficails/",
+          "icon": "globe"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/skmohammadali_?igsh=MTlpbzltcTU3eDNmag==",
+          "icon": "instagram"
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/share/18naTQvnXH/",
+          "icon": "facebook"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/Skmohammadali_?t=mzcHWFWMi0zJM7gB2VEqxA&s=08",
+          "icon": "twitter"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "name": "Home",
+        "url": "#hero"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 SK MOHAMMAD ALI. All rights reserved."
+  }
+}
